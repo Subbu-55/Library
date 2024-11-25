@@ -1,0 +1,10 @@
+com\example\demo\model\AuthorTest.class
+com\example\demo\controller\BookControllerTest.class
+com\example\demo\model\PublisherTest.class
+com\example\demo\service\PublisherServiceImplTest.class
+com\example\demo\controller\AuthorControllerTest.class
+com\example\demo\model\BookTest.class
+com\example\demo\service\AuthorServiceImplTest.class
+com\example\demo\OnlineLibraryManagementSystemApplicationTests.class
+com\example\demo\service\BookServiceImplTest.class
+com\example\demo\controller\PublisherControllerTest.class
